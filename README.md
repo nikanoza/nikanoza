@@ -23,6 +23,5 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikanoza&" alt="nikanoza" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikanoza&theme=tokyonight" alt="nikanoza" />
 </p>
 
