@@ -21,8 +21,6 @@
 
 ![snake gif](https://github.com/nikanoza/nikanoza/blob/output/github-contribution-grid-snake.gif)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikanoza&" alt="nikanoza" />
-</p>
+
 
 
