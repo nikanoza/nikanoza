@@ -23,5 +23,6 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikanoza&" alt="nikanoza" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikanoza" alt="nikanoza" />
 </p>
 
