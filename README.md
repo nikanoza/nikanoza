@@ -24,6 +24,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikanoza&" alt="nikanoza" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikanoza&show_icons=true&theme=gruvbox" alt="nikanoza" />
-</p>
