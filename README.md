@@ -21,6 +21,11 @@
 
 ![snake gif](https://github.com/nikanoza/nikanoza/blob/output/github-contribution-grid-snake.gif)
 
+<p align="center">   
+  <a href="https://github.com/nikanoza"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikanoza&theme=radical" alt="Niks Nozadze's GitHub Contribution"/>     </a>
+</p>
+
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikanoza&" alt="nikanoza" />
 </p>
