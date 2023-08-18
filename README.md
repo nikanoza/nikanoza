@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikanoza)](https://github.com/nikanoza/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikanoza" alt="Niks Nozadze's GitHub Contribution"/>
 </p>
 
 <p align="center">
