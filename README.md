@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikanoza" alt="nikanoza" />
+  <img src="https://streak-stats.demolab.com/?user=nikanoza" alt="nikanoza" />
 </p>
 
 
