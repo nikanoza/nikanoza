@@ -27,10 +27,6 @@
 </p>
 
 <p align="center">   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikanoza" alt="Niks Nozadze's GitHub Contribution"/>
-</p>
-
-<p align="center">   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikanoza" alt="Niks Nozadze's GitHub Contribution"/>
 </p>
 
