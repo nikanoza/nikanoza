@@ -26,10 +26,11 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikanoza&theme=radical" alt="Niks Nozadze's GitHub Contribution"/>     </a>
 </p>
 <p align="center">   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikanoza" alt="Niks Nozadze's GitHub Contribution"/>
+  <iframe width="1903" height="804" src="https://www.youtube.com/embed/mqCLaWupsTU" title="Strings | JavaScript დამწყებთათვის |  ნაწილი -2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 <p align="center">   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikanoza" alt="Niks Nozadze's GitHub Contribution"/>
 </p>
+
 
