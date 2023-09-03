@@ -26,7 +26,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikanoza&theme=radical" alt="Niks Nozadze's GitHub Contribution"/>     </a>
 </p>
 <p align="center">   
-  <iframe width="1903" height="804" src="https://www.youtube.com/embed/mqCLaWupsTU" title="Strings | JavaScript დამწყებთათვის |  ნაწილი -2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <video src="https://youtu.be/mqCLaWupsTU" controls></video>
 </p>
 
 <p align="center">   
