@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nika Nozadze</h1>
+<h2 align="center">Founder of [Tech Space](https://www.facebook.com/profile.php?id=61555700484256]</h2>
 <h3 align="center">Software Engineer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikanozali&label=Profile%20views&color=3f5427&style=plastic" alt="nikanoza" /> </p>
@@ -6,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikanoza" alt="nikanoza" /></a> </p>
 
-- 🌱 I’m currently mentoring in the Bootcamp of Oto **https://oto.bitcamp.ge/**
+- 🌱 I’m currently mentoring in the [Tech Space](https://www.facebook.com/profile.php?id=61555700484256]
 
 - 👨‍💻 All of my projects are available at [nikanoza](https://github.com/nikanoza)
 
