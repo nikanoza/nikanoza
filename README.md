@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikanoza" alt="nikanoza" /></a> </p>
 
-- 🌱 I’m currently mentoring in the [Tech Space](https://www.facebook.com/profile.php?id=61555700484256)
-
 - 👨‍💻 All of my projects are available at [nikanoza](https://github.com/nikanoza)
 
 - 📫 How to reach me [nikanoza](https://www.linkedin.com/in/nika-nozadze-67b62a210)
